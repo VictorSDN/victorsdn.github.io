@@ -14,3 +14,12 @@ h1 {
 h2, h3 , li{
     color: var(--text-700);
 }
+
+a {
+    color: var(--accent-400);
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:visited {
+    color: var(--accent-600);
+}
